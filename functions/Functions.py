@@ -7,3 +7,4 @@ def print_hello():
 
 
 print_name()
+print('test')
